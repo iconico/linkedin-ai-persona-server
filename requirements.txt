@@ -1,0 +1,11 @@
+transformers
+torch
+sentencepiece
+accelerate
+langchain
+langchain-google-vertexai
+langchain-community
+langchain-huggingface
+Flask
+gunicorn
+google-cloud-storage
